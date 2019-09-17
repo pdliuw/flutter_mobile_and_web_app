@@ -19,7 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ---
 title: Flutter适配多平台
-date: 2019-09-17 18:25:04
 
 img: /images/flutter_logo.jpg
 summary: Flutter适配 Ios、Android、Web平台| 全平台创新开发体验
